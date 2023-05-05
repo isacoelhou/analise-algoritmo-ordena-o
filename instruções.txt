@@ -1,0 +1,28 @@
+Trabalho Prático de Laboratório 3 (Ordenação e Busca – 20 pts.)
+
+Descrição do Trabalho:
+    1. Este trabalho vale 20 pontos para a 2ª Avaliação.
+    2. Este trabalho deverá ser realizado em equipes de no máximo dois (2) alunos. Em nenhuma hipótese serão aceitos trabalhos de equipes com número maior de elementos.
+    3. Cada equipe deverá escolher dois algoritmos de ordenação, e implementá-los nas duas linguagens utilizadas na disciplina (C++ e Golang). A combinação escolhida por cada equipe deve ser diferente.
+A escolha dos algoritmos deve ser informada ao professor da disciplina que manterá o controle das combinações de cada equipe.
+    4. Para cada implementação, deverão ser realizados os seguintes testes exaustivos utilizando os arquivos “numeros.txt”, “nomes.txt” e “pessoa.txt”, os quais são fornecidos com esta tarefa, da seguinte forma:
+        a. Para cada arquivo, devem ser realizados testes de desempenho, começando com 1000 registros de dados, extraídos dos arquivos supramencionados, e aumentando o número de registros de 1000 em 1000 a cada execução, até alcançar o número máximo de registros nos arquivos (100.000 registros) Caso algum algoritmo não suporte um volume de dados tão grande, executar até o volume máximo suportado pelo algoritmo e relatar a ocorrência.
+        b. O arquivo “pessoa.txt” é composto por dois campos: código e pessoa, devendo ser ordenado por ambos os campos: por código (1ª chave) e por nome (2ª chave).
+        c. Os tempos de execução, número de trocas e número de comparações devem ser coletados para cada execução, de cada arquivo.
+        d. Ao final, deve-se apresentar um estudo comparativo sobre os algoritmos escolhidos, com tabelas comparativas e gráficos de desempenho para todos os dados coletados, comparando os dois algoritmos, em ambas as implementações e com cada um dos arquivos de teste.
+        e. Devem ser comparados o número de comparações, o número de trocas, e o tempo de execução de cada algoritmo. A plataforma computacional utilizada para a execução dos testes deve ser a mesma, para que não haja influência da plataforma nos resultados obtidos. Esta plataforma deverá estar descrita no relatório.
+    5. Deve ser entregue:
+        a. Um relatório, contendo as análises, organizado da seguinte forma:
+            i. Introdução: deve conter uma descrição sucinta do problema de ordenação e dos algoritmos escolhidos para a realização do experimento (max. 1 página)
+            ii. Metodologia: deve descrever como o experimento foi realizado
+                1. Qual plataforma computacional utilizada (hardware, Sistema Operacional, Linguagens de programação).
+                2. Como os testes foram realizados: apresentar aqui os gráficos (tamanho X trocas, tamanho X comparações, tamanho X tempo) e tabelas comparativas.
+            iii. Conclusões: deve apresentar as conclusões obtidas a partir do experimento: 
+                1. Qual a melhor implementação de cada algoritmo (C++/Go) para cada tipo de dados?
+                2. Qual o melhor algoritmo para cada tipo de dados, considerando apenas uma das linguagens?
+                3. Qual algoritmo foi melhor para cada tipo de dados, independente da linguagem de implementação?
+                4. Qual linguagem apresentou melhor desempenho geral, independente do algoritmo implementado?
+                5. Qual algoritmo apresentou melhor desempenho geral, independente da linguagem de implementação?
+    6. Datas:
+        a. Formação de duplas e escolha dos algoritmos a serem analisados:  até 06/05/2023 (horário da aula, com o professor)
+        b. Entrega dos trabalhos (via Teams): até 20/05/2023 (23 h 59 min)

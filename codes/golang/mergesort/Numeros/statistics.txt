@@ -1,0 +1,702 @@
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 999):
+Tempo de execução: 0h0m0s243µs
+Número de comparações: 8712
+Número de trocas: 9976
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 1999):
+Tempo de execução: 0h0m0s424µs
+Número de comparações: 19396
+Número de trocas: 21952
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 2999):
+Tempo de execução: 0h0m0s1139µs
+Número de comparações: 30850
+Número de trocas: 34904
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 3999):
+Tempo de execução: 0h0m0s881µs
+Número de comparações: 42835
+Número de trocas: 47904
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 4999):
+Tempo de execução: 0h0m0s1385µs
+Número de comparações: 55269
+Número de trocas: 61808
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 5999):
+Tempo de execução: 0h0m0s1440µs
+Número de comparações: 67810
+Número de trocas: 75808
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 6999):
+Tempo de execução: 0h0m0s1934µs
+Número de comparações: 80691
+Número de trocas: 89808
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 7999):
+Tempo de execução: 0h0m0s1854µs
+Número de comparações: 93705
+Número de trocas: 103808
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 8999):
+Tempo de execução: 0h0m0s2672µs
+Número de comparações: 107030
+Número de trocas: 118616
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 9999):
+Tempo de execução: 0h0m0s2730µs
+Número de comparações: 120504
+Número de trocas: 133616
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 10999):
+Tempo de execução: 0h0m0s2987µs
+Número de comparações: 134089
+Número de trocas: 148616
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 11999):
+Tempo de execução: 0h0m0s3180µs
+Número de comparações: 147715
+Número de trocas: 163616
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 12999):
+Tempo de execução: 0h0m0s3694µs
+Número de comparações: 161484
+Número de trocas: 178616
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 13999):
+Tempo de execução: 0h0m0s3596µs
+Número de comparações: 175364
+Número de trocas: 193616
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 14999):
+Tempo de execução: 0h0m0s4100µs
+Número de comparações: 189281
+Número de trocas: 208616
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 15999):
+Tempo de execução: 0h0m0s4200µs
+Número de comparações: 203264
+Número de trocas: 223616
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 16999):
+Tempo de execução: 0h0m0s4893µs
+Número de comparações: 217529
+Número de trocas: 239232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 17999):
+Tempo de execução: 0h0m0s5801µs
+Número de comparações: 231939
+Número de trocas: 255232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 18999):
+Tempo de execução: 0h0m0s6317µs
+Número de comparações: 246461
+Número de trocas: 271232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 19999):
+Tempo de execução: 0h0m0s6314µs
+Número de comparações: 260904
+Número de trocas: 287232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 20999):
+Tempo de execução: 0h0m0s6722µs
+Número de comparações: 275461
+Número de trocas: 303232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 21999):
+Tempo de execução: 0h0m0s6980µs
+Número de comparações: 290050
+Número de trocas: 319232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 22999):
+Tempo de execução: 0h0m0s7453µs
+Número de comparações: 304665
+Número de trocas: 335232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 23999):
+Tempo de execução: 0h0m0s7604µs
+Número de comparações: 319311
+Número de trocas: 351232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 24999):
+Tempo de execução: 0h0m0s10237µs
+Número de comparações: 334145
+Número de trocas: 367232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 25999):
+Tempo de execução: 0h0m0s9923µs
+Número de comparações: 348845
+Número de trocas: 383232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 26999):
+Tempo de execução: 0h0m0s8826µs
+Número de comparações: 363770
+Número de trocas: 399232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 27999):
+Tempo de execução: 0h0m0s9012µs
+Número de comparações: 378720
+Número de trocas: 415232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 28999):
+Tempo de execução: 0h0m0s9238µs
+Número de comparações: 393669
+Número de trocas: 431232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 29999):
+Tempo de execução: 0h0m0s9420µs
+Número de comparações: 408510
+Número de trocas: 447232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 30999):
+Tempo de execução: 0h0m0s9605µs
+Número de comparações: 423505
+Número de trocas: 463232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 31999):
+Tempo de execução: 0h0m0s9700µs
+Número de comparações: 438586
+Número de trocas: 479232
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 32999):
+Tempo de execução: 0h0m0s10569µs
+Número de comparações: 453776
+Número de trocas: 495464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 33999):
+Tempo de execução: 0h0m0s11449µs
+Número de comparações: 469147
+Número de trocas: 512464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 34999):
+Tempo de execução: 0h0m0s11785µs
+Número de comparações: 484445
+Número de trocas: 529464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 35999):
+Tempo de execução: 0h0m0s12841µs
+Número de comparações: 499850
+Número de trocas: 546464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 36999):
+Tempo de execução: 0h0m0s13439µs
+Número de comparações: 515428
+Número de trocas: 563464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 37999):
+Tempo de execução: 0h0m0s13855µs
+Número de comparações: 530890
+Número de trocas: 580464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 38999):
+Tempo de execução: 0h0m0s13717µs
+Número de comparações: 546246
+Número de trocas: 597464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 39999):
+Tempo de execução: 0h0m0s14244µs
+Número de comparações: 561859
+Número de trocas: 614464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 40999):
+Tempo de execução: 0h0m0s14433µs
+Número de comparações: 577389
+Número de trocas: 631464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 41999):
+Tempo de execução: 0h0m0s14469µs
+Número de comparações: 592964
+Número de trocas: 648464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 42999):
+Tempo de execução: 0h0m0s14854µs
+Número de comparações: 608485
+Número de trocas: 665464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 43999):
+Tempo de execução: 0h0m0s15636µs
+Número de comparações: 624243
+Número de trocas: 682464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 44999):
+Tempo de execução: 0h0m0s14901µs
+Número de comparações: 639734
+Número de trocas: 699464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 45999):
+Tempo de execução: 0h0m0s14324µs
+Número de comparações: 655487
+Número de trocas: 716464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 46999):
+Tempo de execução: 0h0m0s15567µs
+Número de comparações: 671122
+Número de trocas: 733464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 47999):
+Tempo de execução: 0h0m0s14926µs
+Número de comparações: 686707
+Número de trocas: 750464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 48999):
+Tempo de execução: 0h0m0s15278µs
+Número de comparações: 702348
+Número de trocas: 767464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 49999):
+Tempo de execução: 0h0m0s15196µs
+Número de comparações: 718260
+Número de trocas: 784464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 50999):
+Tempo de execução: 0h0m0s15137µs
+Número de comparações: 734195
+Número de trocas: 801464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 51999):
+Tempo de execução: 0h0m0s15399µs
+Número de comparações: 749772
+Número de trocas: 818464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 52999):
+Tempo de execução: 0h0m0s15886µs
+Número de comparações: 765855
+Número de trocas: 835464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 53999):
+Tempo de execução: 0h0m0s16129µs
+Número de comparações: 781548
+Número de trocas: 852464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 54999):
+Tempo de execução: 0h0m0s16745µs
+Número de comparações: 797746
+Número de trocas: 869464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 55999):
+Tempo de execução: 0h0m0s19119µs
+Número de comparações: 813503
+Número de trocas: 886464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 56999):
+Tempo de execução: 0h0m0s19794µs
+Número de comparações: 829257
+Número de trocas: 903464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 57999):
+Tempo de execução: 0h0m0s20181µs
+Número de comparações: 845444
+Número de trocas: 920464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 58999):
+Tempo de execução: 0h0m0s20228µs
+Número de comparações: 861212
+Número de trocas: 937464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 59999):
+Tempo de execução: 0h0m0s20452µs
+Número de comparações: 877204
+Número de trocas: 954464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 60999):
+Tempo de execução: 0h0m0s20870µs
+Número de comparações: 893228
+Número de trocas: 971464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 61999):
+Tempo de execução: 0h0m0s20810µs
+Número de comparações: 909117
+Número de trocas: 988464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 62999):
+Tempo de execução: 0h0m0s20968µs
+Número de comparações: 925230
+Número de trocas: 1005464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 63999):
+Tempo de execução: 0h0m0s21791µs
+Número de comparações: 941368
+Número de trocas: 1022464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 64999):
+Tempo de execução: 0h0m0s21992µs
+Número de comparações: 957348
+Número de trocas: 1039464
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 65999):
+Tempo de execução: 0h0m0s23606µs
+Número de comparações: 973459
+Número de trocas: 1056928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 66999):
+Tempo de execução: 0h0m0s24047µs
+Número de comparações: 989728
+Número de trocas: 1074928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 67999):
+Tempo de execução: 0h0m0s24820µs
+Número de comparações: 1006342
+Número de trocas: 1092928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 68999):
+Tempo de execução: 0h0m0s26289µs
+Número de comparações: 1022545
+Número de trocas: 1110928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 69999):
+Tempo de execução: 0h0m0s26580µs
+Número de comparações: 1038769
+Número de trocas: 1128928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 70999):
+Tempo de execução: 0h0m0s28638µs
+Número de comparações: 1055638
+Número de trocas: 1146928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 71999):
+Tempo de execução: 0h0m0s28368µs
+Número de comparações: 1071836
+Número de trocas: 1164928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 72999):
+Tempo de execução: 0h0m0s27746µs
+Número de comparações: 1088369
+Número de trocas: 1182928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 73999):
+Tempo de execução: 0h0m0s28286µs
+Número de comparações: 1104751
+Número de trocas: 1200928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 74999):
+Tempo de execução: 0h0m0s29791µs
+Número de comparações: 1121208
+Número de trocas: 1218928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 75999):
+Tempo de execução: 0h0m0s29346µs
+Número de comparações: 1137789
+Número de trocas: 1236928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 76999):
+Tempo de execução: 0h0m0s28712µs
+Número de comparações: 1154089
+Número de trocas: 1254928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 77999):
+Tempo de execução: 0h0m0s29230µs
+Número de comparações: 1170559
+Número de trocas: 1272928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 78999):
+Tempo de execução: 0h0m0s28665µs
+Número de comparações: 1187103
+Número de trocas: 1290928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 79999):
+Tempo de execução: 0h0m0s25622µs
+Número de comparações: 1203589
+Número de trocas: 1308928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 80999):
+Tempo de execução: 0h0m0s26323µs
+Número de comparações: 1220085
+Número de trocas: 1326928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 81999):
+Tempo de execução: 0h0m0s26744µs
+Número de comparações: 1236635
+Número de trocas: 1344928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 82999):
+Tempo de execução: 0h0m0s26683µs
+Número de comparações: 1253268
+Número de trocas: 1362928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 83999):
+Tempo de execução: 0h0m0s27499µs
+Número de comparações: 1270074
+Número de trocas: 1380928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 84999):
+Tempo de execução: 0h0m0s27509µs
+Número de comparações: 1286533
+Número de trocas: 1398928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 85999):
+Tempo de execução: 0h0m0s27829µs
+Número de comparações: 1303032
+Número de trocas: 1416928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 86999):
+Tempo de execução: 0h0m0s27804µs
+Número de comparações: 1319723
+Número de trocas: 1434928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 87999):
+Tempo de execução: 0h0m0s28394µs
+Número de comparações: 1336243
+Número de trocas: 1452928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 88999):
+Tempo de execução: 0h0m0s30263µs
+Número de comparações: 1353037
+Número de trocas: 1470928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 89999):
+Tempo de execução: 0h0m0s33222µs
+Número de comparações: 1369429
+Número de trocas: 1488928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 90999):
+Tempo de execução: 0h0m0s33449µs
+Número de comparações: 1386343
+Número de trocas: 1506928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 91999):
+Tempo de execução: 0h0m0s33465µs
+Número de comparações: 1403121
+Número de trocas: 1524928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 92999):
+Tempo de execução: 0h0m0s34605µs
+Número de comparações: 1419481
+Número de trocas: 1542928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 93999):
+Tempo de execução: 0h0m0s34373µs
+Número de comparações: 1436306
+Número de trocas: 1560928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 94999):
+Tempo de execução: 0h0m0s35971µs
+Número de comparações: 1452667
+Número de trocas: 1578928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 95999):
+Tempo de execução: 0h0m0s35085µs
+Número de comparações: 1469323
+Número de trocas: 1596928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 96999):
+Tempo de execução: 0h0m0s35047µs
+Número de comparações: 1486267
+Número de trocas: 1614928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 97999):
+Tempo de execução: 0h0m0s35323µs
+Número de comparações: 1502717
+Número de trocas: 1632928
+
+O arquivo não está totalmente ordenado (de 0 a 100000)
+
+Estatísticas dos números (de 0 a 98999):
+Tempo de execução: 0h0m0s36217µs
+Número de comparações: 1519578
+Número de trocas: 1650928
+
+Estatísticas dos números (de 0 a 99999):
+Tempo de execução: 0h0m0s35832µs
+Número de comparações: 1536454
+Número de trocas: 1668928
+
+	Estatísticas da Ordenação do arquivo completo:
+Tempo de execução total: 0h0m1s742923µs
+Total de comparações: 73980566
+Total de trocas: 80591400

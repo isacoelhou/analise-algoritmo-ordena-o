@@ -1,0 +1,604 @@
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 999
+Tempo de execução: 0h0m0s1066µs
+Número de comparações: 8724
+Número de trocas: 9976
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 1999
+Tempo de execução: 0h0m0s1659µs
+Número de comparações: 19432
+Número de trocas: 21952
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 2999
+Tempo de execução: 0h0m0s4400µs
+Número de comparações: 30944
+Número de trocas: 34904
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 3999
+Tempo de execução: 0h0m0s6290µs
+Número de comparações: 42829
+Número de trocas: 47904
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 4999
+Tempo de execução: 0h0m0s6128µs
+Número de comparações: 55260
+Número de trocas: 61808
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 5999
+Tempo de execução: 0h0m0s6765µs
+Número de comparações: 67844
+Número de trocas: 75808
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 6999
+Tempo de execução: 0h0m0s8438µs
+Número de comparações: 80695
+Número de trocas: 89808
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 7999
+Tempo de execução: 0h0m0s10820µs
+Número de comparações: 93676
+Número de trocas: 103808
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 8999
+Tempo de execução: 0h0m0s11068µs
+Número de comparações: 107016
+Número de trocas: 118616
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 9999
+Tempo de execução: 0h0m0s14099µs
+Número de comparações: 120462
+Número de trocas: 133616
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 10999
+Tempo de execução: 0h0m0s18081µs
+Número de comparações: 134047
+Número de trocas: 148616
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 11999
+Tempo de execução: 0h0m0s16334µs
+Número de comparações: 147604
+Número de trocas: 163616
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 12999
+Tempo de execução: 0h0m0s19224µs
+Número de comparações: 161352
+Número de trocas: 178616
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 13999
+Tempo de execução: 0h0m0s15184µs
+Número de comparações: 175379
+Número de trocas: 193616
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 14999
+Tempo de execução: 0h0m0s16123µs
+Número de comparações: 189265
+Número de trocas: 208616
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 15999
+Tempo de execução: 0h0m0s17626µs
+Número de comparações: 203363
+Número de trocas: 223616
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 16999
+Tempo de execução: 0h0m0s25015µs
+Número de comparações: 217558
+Número de trocas: 239232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 17999
+Tempo de execução: 0h0m0s27892µs
+Número de comparações: 231968
+Número de trocas: 255232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 18999
+Tempo de execução: 0h0m0s26139µs
+Número de comparações: 246410
+Número de trocas: 271232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 19999
+Tempo de execução: 0h0m0s29218µs
+Número de comparações: 260842
+Número de trocas: 287232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 20999
+Tempo de execução: 0h0m0s30468µs
+Número de comparações: 275517
+Número de trocas: 303232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 21999
+Tempo de execução: 0h0m0s32184µs
+Número de comparações: 290139
+Número de trocas: 319232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 22999
+Tempo de execução: 0h0m0s34016µs
+Número de comparações: 304709
+Número de trocas: 335232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 23999
+Tempo de execução: 0h0m0s33743µs
+Número de comparações: 319360
+Número de trocas: 351232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 24999
+Tempo de execução: 0h0m0s34426µs
+Número de comparações: 334077
+Número de trocas: 367232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 25999
+Tempo de execução: 0h0m0s37816µs
+Número de comparações: 348899
+Número de trocas: 383232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 26999
+Tempo de execução: 0h0m0s37029µs
+Número de comparações: 363947
+Número de trocas: 399232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 27999
+Tempo de execução: 0h0m0s40732µs
+Número de comparações: 378797
+Número de trocas: 415232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 28999
+Tempo de execução: 0h0m0s38024µs
+Número de comparações: 393729
+Número de trocas: 431232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 29999
+Tempo de execução: 0h0m0s39703µs
+Número de comparações: 408571
+Número de trocas: 447232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 30999
+Tempo de execução: 0h0m0s42824µs
+Número de comparações: 423664
+Número de trocas: 463232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 31999
+Tempo de execução: 0h0m0s44541µs
+Número de comparações: 438587
+Número de trocas: 479232
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 32999
+Tempo de execução: 0h0m0s50782µs
+Número de comparações: 453716
+Número de trocas: 495464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 33999
+Tempo de execução: 0h0m0s59329µs
+Número de comparações: 469158
+Número de trocas: 512464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 34999
+Tempo de execução: 0h0m0s60741µs
+Número de comparações: 484522
+Número de trocas: 529464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 35999
+Tempo de execução: 0h0m0s58865µs
+Número de comparações: 499865
+Número de trocas: 546464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 36999
+Tempo de execução: 0h0m0s60095µs
+Número de comparações: 515187
+Número de trocas: 563464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 37999
+Tempo de execução: 0h0m0s61493µs
+Número de comparações: 530886
+Número de trocas: 580464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 38999
+Tempo de execução: 0h0m0s57440µs
+Número de comparações: 546270
+Número de trocas: 597464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 39999
+Tempo de execução: 0h0m0s67391µs
+Número de comparações: 561711
+Número de trocas: 614464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 40999
+Tempo de execução: 0h0m0s64217µs
+Número de comparações: 577447
+Número de trocas: 631464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 41999
+Tempo de execução: 0h0m0s69262µs
+Número de comparações: 593060
+Número de trocas: 648464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 42999
+Tempo de execução: 0h0m0s86097µs
+Número de comparações: 608677
+Número de trocas: 665464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 43999
+Tempo de execução: 0h0m0s70448µs
+Número de comparações: 624278
+Número de trocas: 682464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 44999
+Tempo de execução: 0h0m0s78600µs
+Número de comparações: 639770
+Número de trocas: 699464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 45999
+Tempo de execução: 0h0m0s71774µs
+Número de comparações: 655445
+Número de trocas: 716464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 46999
+Tempo de execução: 0h0m0s77235µs
+Número de comparações: 671151
+Número de trocas: 733464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 47999
+Tempo de execução: 0h0m0s72425µs
+Número de comparações: 686779
+Número de trocas: 750464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 48999
+Tempo de execução: 0h0m0s80754µs
+Número de comparações: 702434
+Número de trocas: 767464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 49999
+Tempo de execução: 0h0m0s88232µs
+Número de comparações: 718302
+Número de trocas: 784464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 50999
+Tempo de execução: 0h0m0s85583µs
+Número de comparações: 733993
+Número de trocas: 801464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 51999
+Tempo de execução: 0h0m0s80376µs
+Número de comparações: 749779
+Número de trocas: 818464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 52999
+Tempo de execução: 0h0m0s84293µs
+Número de comparações: 766004
+Número de trocas: 835464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 53999
+Tempo de execução: 0h0m0s85033µs
+Número de comparações: 781715
+Número de trocas: 852464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 54999
+Tempo de execução: 0h0m0s95695µs
+Número de comparações: 797645
+Número de trocas: 869464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 55999
+Tempo de execução: 0h0m0s87885µs
+Número de comparações: 813478
+Número de trocas: 886464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 56999
+Tempo de execução: 0h0m0s95758µs
+Número de comparações: 829371
+Número de trocas: 903464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 57999
+Tempo de execução: 0h0m0s90575µs
+Número de comparações: 845402
+Número de trocas: 920464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 58999
+Tempo de execução: 0h0m0s96486µs
+Número de comparações: 861200
+Número de trocas: 937464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 59999
+Tempo de execução: 0h0m0s99157µs
+Número de comparações: 877127
+Número de trocas: 954464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 60999
+Tempo de execução: 0h0m0s93141µs
+Número de comparações: 893240
+Número de trocas: 971464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 61999
+Tempo de execução: 0h0m0s104096µs
+Número de comparações: 909453
+Número de trocas: 988464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 62999
+Tempo de execução: 0h0m0s97227µs
+Número de comparações: 925260
+Número de trocas: 1005464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 63999
+Tempo de execução: 0h0m0s99168µs
+Número de comparações: 941245
+Número de trocas: 1022464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 64999
+Tempo de execução: 0h0m0s103972µs
+Número de comparações: 957368
+Número de trocas: 1039464
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 65999
+Tempo de execução: 0h0m0s116638µs
+Número de comparações: 973448
+Número de trocas: 1056928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 66999
+Tempo de execução: 0h0m0s122925µs
+Número de comparações: 989895
+Número de trocas: 1074928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 67999
+Tempo de execução: 0h0m0s145909µs
+Número de comparações: 1006316
+Número de trocas: 1092928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 68999
+Tempo de execução: 0h0m0s124697µs
+Número de comparações: 1022679
+Número de trocas: 1110928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 69999
+Tempo de execução: 0h0m0s133402µs
+Número de comparações: 1039051
+Número de trocas: 1128928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 70999
+Tempo de execução: 0h0m0s123286µs
+Número de comparações: 1055624
+Número de trocas: 1146928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 71999
+Tempo de execução: 0h0m0s143015µs
+Número de comparações: 1071928
+Número de trocas: 1164928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 72999
+Tempo de execução: 0h0m0s132333µs
+Número de comparações: 1088137
+Número de trocas: 1182928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 73999
+Tempo de execução: 0h0m0s133574µs
+Número de comparações: 1104524
+Número de trocas: 1200928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 74999
+Tempo de execução: 0h0m0s131785µs
+Número de comparações: 1121025
+Número de trocas: 1218928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 75999
+Tempo de execução: 0h0m0s148212µs
+Número de comparações: 1137809
+Número de trocas: 1236928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 76999
+Tempo de execução: 0h0m0s145611µs
+Número de comparações: 1154229
+Número de trocas: 1254928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 77999
+Tempo de execução: 0h0m0s143838µs
+Número de comparações: 1170612
+Número de trocas: 1272928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 78999
+Tempo de execução: 0h0m0s142234µs
+Número de comparações: 1187294
+Número de trocas: 1290928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 79999
+Tempo de execução: 0h0m0s144277µs
+Número de comparações: 1203429
+Número de trocas: 1308928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 80999
+Tempo de execução: 0h0m0s146458µs
+Número de comparações: 1219904
+Número de trocas: 1326928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 81999
+Tempo de execução: 0h0m0s144064µs
+Número de comparações: 1236781
+Número de trocas: 1344928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 82999
+Tempo de execução: 0h0m0s159866µs
+Número de comparações: 1253234
+Número de trocas: 1362928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 83999
+Tempo de execução: 0h0m0s163324µs
+Número de comparações: 1269951
+Número de trocas: 1380928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 84999
+Tempo de execução: 0h0m0s166242µs
+Número de comparações: 1286341
+Número de trocas: 1398928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 85999
+Tempo de execução: 0h0m0s162263µs
+Número de comparações: 1303291
+Número de trocas: 1416928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 86999
+Tempo de execução: 0h0m0s167449µs
+Número de comparações: 1319487
+Número de trocas: 1434928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 87999
+Tempo de execução: 0h0m0s163186µs
+Número de comparações: 1336360
+Número de trocas: 1452928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 88999
+Tempo de execução: 0h0m0s176388µs
+Número de comparações: 1353094
+Número de trocas: 1470928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 89999
+Tempo de execução: 0h0m0s174571µs
+Número de comparações: 1369520
+Número de trocas: 1488928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 90999
+Tempo de execução: 0h0m0s162695µs
+Número de comparações: 1385994
+Número de trocas: 1506928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 91999
+Tempo de execução: 0h0m0s177634µs
+Número de comparações: 1402683
+Número de trocas: 1524928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 92999
+Tempo de execução: 0h0m0s167257µs
+Número de comparações: 1419445
+Número de trocas: 1542928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 93999
+Tempo de execução: 0h0m0s174493µs
+Número de comparações: 1436162
+Número de trocas: 1560928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 94999
+Tempo de execução: 0h0m0s184511µs
+Número de comparações: 1452864
+Número de trocas: 1578928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 95999
+Tempo de execução: 0h0m0s182071µs
+Número de comparações: 1469141
+Número de trocas: 1596928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 96999
+Tempo de execução: 0h0m0s183834µs
+Número de comparações: 1485967
+Número de trocas: 1614928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 97999
+Tempo de execução: 0h0m0s184354µs
+Número de comparações: 1502765
+Número de trocas: 1632928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 98999
+Tempo de execução: 0h0m0s173194µs
+Número de comparações: 1519743
+Número de trocas: 1650928
+
+Estatísticas do lote:
+Intervalo de linhas: de 0 a 99999
+Tempo de execução: 0h0m0s186606µs
+Número de comparações: 1536379
+Número de trocas: 1668928
+
+Estatísticas da ordenação completa:
+Tempo de execução total: 0h0m8s792944µs
+Total de comparações: 73980710
+Total de trocas: 80591400

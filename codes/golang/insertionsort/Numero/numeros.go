@@ -24,7 +24,7 @@ func insertionsort(items []int, stats *SortStats) {
 				stats.Swaps++
 			}
 			stats.Comparisons++
-			j = j - 1
+			j --;
 		}
 	}
 }

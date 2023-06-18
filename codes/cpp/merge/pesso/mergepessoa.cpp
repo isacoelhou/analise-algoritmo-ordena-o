@@ -21,10 +21,6 @@ public:
         codigo = cod;
         name = nome;
     }
-    void PrintPessoa()
-    {
-        cout << codigo << ' ' << name << endl;
-    }
 };
 
 class Vetor

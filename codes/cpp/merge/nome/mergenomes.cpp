@@ -62,7 +62,7 @@ void Vetor::merge(int low, int mid, int high)
         left[i] = this->V[low + i];
     for (int j = 0; j < n2; j++) // j local ao laço
         right[j] = this->V[mid + 1 + j];
-    left[n1] = "~"; // Usamos "~" para representar um valor infinito no contexto de strings
+    left[n1] = "~"; 
     right[n2] = "~";
 
     for (int k = low; k <= high; k++)
@@ -105,8 +105,9 @@ int main() {
     clock_t end = clock();
     time_spent += (double)(end - begin) / CLOCKS_PER_SEC;
     
+    ofstream out("nomesordenados.txt");
     for (int i = 0; i < V.n; i++) {
-        cout << V.V[i] << endl;
+        out << V.V[i] << endl;
     }
 
     cout << "Tempo de execução: " << time_spent << " segundos" << endl;
